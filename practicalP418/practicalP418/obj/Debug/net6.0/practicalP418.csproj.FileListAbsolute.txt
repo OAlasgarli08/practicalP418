@@ -1,0 +1,14 @@
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\bin\Debug\net6.0\practicalP418.exe
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\bin\Debug\net6.0\practicalP418.deps.json
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\bin\Debug\net6.0\practicalP418.runtimeconfig.json
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\bin\Debug\net6.0\practicalP418.dll
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\bin\Debug\net6.0\practicalP418.pdb
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\obj\Debug\net6.0\practicalP418.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\obj\Debug\net6.0\practicalP418.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\obj\Debug\net6.0\practicalP418.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\obj\Debug\net6.0\practicalP418.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\obj\Debug\net6.0\practicalP418.dll
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\obj\Debug\net6.0\refint\practicalP418.dll
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\obj\Debug\net6.0\practicalP418.pdb
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\obj\Debug\net6.0\practicalP418.genruntimeconfig.cache
+C:\Users\Omara\OneDrive\Desktop\practicalP418\practicalP418\practicalP418\obj\Debug\net6.0\ref\practicalP418.dll
